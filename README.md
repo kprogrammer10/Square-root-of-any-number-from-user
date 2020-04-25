@@ -16,3 +16,7 @@ int Myinteger = input.nextInt();
 
 System.out.println(Math.sqrt(Myinterger));
 
+}
+
+}
+
